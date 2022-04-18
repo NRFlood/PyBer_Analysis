@@ -2,7 +2,7 @@
 
 ## Overview of PyBer Analysis
 
-This assignment involved helping Omar scrub through the Pyber data and generate a new DataFrame in order to analyze the weekly fares of each different city type from January through April of 2019.  With this new DataFrame we were able to generate a multiple line graph that illustrates the performance of each city type for the leadership team at Pyber to use as they make strategic decisions.
+This assignment involved helping Omar scrub through the PyBer data and generate a new DataFrame in order to analyze the weekly fares of each different city type from January through April of 2019.  With this new DataFrame we were able to generate a multiple line graph that illustrates the performance of each city type for the leadership team at Pyber to use as they make strategic decisions.
 
 ## PyBer Analysis Results 
 
